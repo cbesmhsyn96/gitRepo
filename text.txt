@@ -6,11 +6,8 @@ Yazılım
 Test
 teerererst
 branch2 değişiklik
-
 master değişiklik
 master değişiklik___
 master değişiklik___2
 branch2 değişiklik2
-
-
 branch2 değişiklik___
