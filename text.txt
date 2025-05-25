@@ -1,12 +1,11 @@
 Hüseyin
 Akcan
-
 Pipeline
 İstanbul
-
 Yazılım
+Test
+Otomasyon
 Testi
-teerererst
 branch2 değişiklik
 master değişiklik
 master değişiklik___
