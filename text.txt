@@ -13,4 +13,3 @@ master değişiklik___2
 branch2 değişiklik2
 branch2 değişiklik___
 444master changes
-333333333branch2 changes
