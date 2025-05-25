@@ -5,3 +5,4 @@ Yazılım
 Test
 teerererst
 branch2 değişiklik
+master değişiklik
