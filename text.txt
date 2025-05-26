@@ -7,7 +7,7 @@ Test
 Otomasyon
 Testi
 branch2 değişiklik
-master değişiklik
+master değişiklik __ branch2 update
 master değişiklik___
 master değişiklik___2
 branch2 değişiklik2
