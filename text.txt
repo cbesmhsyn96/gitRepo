@@ -14,5 +14,3 @@ branch2 değişiklik2
 branch2 değişiklik___
 444master changes
 testt
-Master değişikliği2
-branch2 değişikliği
