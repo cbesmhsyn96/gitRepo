@@ -15,4 +15,3 @@ branch2 değişiklik___
 444master changes
 testt
 master__ değişiklik2
-branch2__ değişiklik
